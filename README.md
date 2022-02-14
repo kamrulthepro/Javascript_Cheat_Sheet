@@ -1,1 +1,1 @@
-# Javascript_Cheat_Sheet
+# This is Javascript Cheat Sheet Repositories. First you need to Download those file. Then Extract the file.
